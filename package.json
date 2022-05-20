@@ -1,0 +1,23 @@
+{
+  "name": "webpack-template",
+  "version": "1.0.0",
+  "description": "WebPack Template for further projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antonichev/web-pack-template.git"
+  },
+  "keywords": [
+    "Web",
+    "pack"
+  ],
+  "author": "novomax@ukr.net",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antonichev/web-pack-template/issues"
+  },
+  "homepage": "https://github.com/antonichev/web-pack-template#readme"
+}
